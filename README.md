@@ -13,10 +13,6 @@ Promptopia is a web application developed as part of the [JavaScript Mastery cou
 - [Project Description](#project-description)
 - [Features](#features)
 - [Skills and Technologies](#skills-and-technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 

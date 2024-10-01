@@ -7,7 +7,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Promptopia is a web application developed as part of the [JavaScript Mastery course](https://www.adrianhajdin.com) by Adrian Hajdin. The platform empowers users to create, share, and explore AI prompts within a vibrant community. I contributed by writing the code that enables smooth prompt sharing and community interaction. This project helps users collaborate and innovate by sharing their best AI prompts, creating a hub for creativity and AI exploration. 💡🤖
+Promptopia is a web application developed as part of the [JavaScript Mastery course](https://www.instagram.com/javascriptmastery/) by Adrian Hajdin. The platform empowers users to create, share, and explore AI prompts within a vibrant community. I contributed by writing the code that enables smooth prompt sharing and community interaction. This project helps users collaborate and innovate by sharing their best AI prompts, creating a hub for creativity and AI exploration. 💡🤖
 
 ## Table of Contents
 - [Project Description](#project-description)

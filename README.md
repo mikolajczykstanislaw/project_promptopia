@@ -1,9 +1,10 @@
 # Promptopia 🚀
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -28,12 +29,11 @@ Promptopia is designed to facilitate the sharing of AI prompts, allowing users t
 - Create and share AI prompts
 - Explore prompts shared by other users
 - User profiles to showcase contributions
-- Community interaction through comments and likes
 - Responsive design for seamless usage across devices
 
 ## Skills and Technologies
+- **Frameworks:** Next.js, React
+- **Styling:** Tailwind CSS
+- **Database:** MongoDB
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React
-- **Libraries:** Redux, Axios
 - **Tools:** Git, GitHub, Visual Studio Code
-- **APIs:** RESTful API integration
